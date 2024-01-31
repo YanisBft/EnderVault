@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:trial_key",
+		  "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Ender Key",
+                "color": "light_purple",
+                "italic": false
+              }
+            },
+			{
+              "function": "minecraft:set_nbt",
+              "tag": "{Tags:[\"ender_key\"]}"
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:entities/ender_dragon"
+}
