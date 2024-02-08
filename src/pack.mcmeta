@@ -1,6 +1,10 @@
 {
 	"pack": {
-		"pack_format": 30,
-		"description": "Ender Vault datapack"
+		"pack_format": 31,
+		"supported_formats": {
+			"min_inclusive": 30,
+			"max_inclusive": 31
+		},
+		"description": "A datapack replacing elytra in End Cities with vaults"
 	}
 }
