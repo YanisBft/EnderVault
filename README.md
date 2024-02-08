@@ -8,7 +8,7 @@ That way, every player on a server can obtain elytra, without exploring thousand
 
 In order to open these Ender Vaults, you need to obtain an **Ender Key**, which is dropped by the Ender Dragon.
 
-This datapack is only compatible with snapshot 24w05a, with "Update 1.21" experimental datapack enabled.
+This datapack is compatible with snapshots 24w05a and above, with "Update 1.21" experimental datapack enabled.
 
 ### Downloads
 [Modrinth](https://modrinth.com/datapack/ender-vault)
