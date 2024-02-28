@@ -7,7 +7,7 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:trial_key",
-		  "functions": [
+          "functions": [
             {
               "function": "minecraft:set_name",
               "name": {
@@ -16,8 +16,8 @@
                 "italic": false
               }
             },
-			{
-              "function": "minecraft:set_nbt",
+            {
+              "function": "minecraft:set_custom_data",
               "tag": "{Tags:[\"ender_key\"]}"
             }
           ]
