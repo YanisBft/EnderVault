@@ -14,4 +14,4 @@ This datapack is compatible with snapshots 24w05a and above, with "Update 1.21" 
 [Modrinth](https://modrinth.com/datapack/ender-vault)
 
 ### Known issues
-Because the Vault's NBT checking the key item does the check incorrectly (see [MC-268183](https://bugs.mojang.com/browse/MC-268183)), the custom name of the Ender Key is also checked. Don't rename it, or it will not work anymore!
+Because the Vault's NBT checking the key item does the check incorrectly (see [MC-268183](https://bugs.mojang.com/browse/MC-268183)), renaming the Ender Key will cause it to not work anymore!
