@@ -10,10 +10,14 @@
           "functions": [
             {
               "function": "minecraft:set_name",
-              "name": {
-                "text": "Ender Key",
-                "color": "light_purple",
-                "italic": false
+              "entity": "this",
+              "target": "item_name",
+              "name": "Ender Key"
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "rare"
               }
             },
             {
